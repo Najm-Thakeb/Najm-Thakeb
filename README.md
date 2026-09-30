@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Najm 👋
 
-<!--
-**Najm-Thakeb/Najm-Thakeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer and trained IT Specialist for Application Development.
 
-Here are some ideas to get you started:
+I have practical experience in software development, REST API testing, backend development and frontend adjustments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+- Java
+- TypeScript / JavaScript
+- Node.js
+- React Native
+- Vue.js
+- SQL
+- Vitest
+- Git
+
+## Current Project
+
+### MatchWay
+A mobile ride-sharing application currently under active development.
+
+Built with React Native, Expo and TypeScript.
